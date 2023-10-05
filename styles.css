@@ -256,21 +256,12 @@ section {
   flex-direction: column;
 }
 
-.section-container {
+.about-container {  
   display: flex;
-  justify-content: left;
-}
-
-.section__pic-container {
-  padding-right: 20px;
-}
-
-
-.about-container {
-  display: flex;
+  justify-content: center;
   flex-direction: column;
-  justify-content: flex-start;
-  padding: 50px;
+  padding: 0 2rem;
+
 }
 
 /* CONTACT */
@@ -278,7 +269,7 @@ section {
   display: flex;
   justify-content: center;
   flex-direction: column;
-  height: 100vh;
+  height: 70vh;
 }
 
 .contact-info-container {
