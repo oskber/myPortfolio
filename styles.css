@@ -261,6 +261,7 @@ section {
   justify-content: center;
   flex-direction: column;
   padding: 0 2rem;
+  max-width: 55ch;
 
 }
 
